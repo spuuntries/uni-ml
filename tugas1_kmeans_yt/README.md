@@ -1,5 +1,11 @@
 # ▶️ **Youtube Description K-Means Clustering**
 
+**Members:**
+
+1. Muhammad Rasyad Lubis (5054231010)
+2. Faiz Muhammad Kautsar (5054231013)
+3. Shalahuddin Ahmad Cahyoga (5054231014)
+
 > [!IMPORTANT]  
 > Make sure that the `../uni-damin/` submodule is linked/cloned, basically, check if the folder exists there, if not, clone it. The data that the notebook uses is contained there.
 
